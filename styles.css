@@ -1,0 +1,61 @@
+/* this is for the index.html*/
+.soup {
+    color: red;
+    text-align: center;
+}
+
+.stew {
+    color: brown
+}
+.burger {
+    color: green
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color:blue
+} 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+div.container {
+    text-align: center;
+}
+ul.myUL {
+    text-align: center;
+    display: inline-block;
+}
+.title {
+    background-color: red;
+}
+#soupli {
+    background-color: yellow;
+}
+#souptitle {
+    text-align: center;
+    color: red;
+}
+.soupdess {
+    background-color: red;
+    font-weight: bold;
+}
+#burgertitle {
+    color: yellowgreen;
+    font-size: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#burgerli {
+    background-color: greenyellow;
+}
+#stewtitle {
+    color: burlywood;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#stewli {
+    background-color: aqua;
+}
